@@ -1,0 +1,15 @@
+.banner{
+  background-size: cover;
+  background-position: center;
+  padding: 29px 0;
+}
+
+.banner-container{
+  text-align: center;
+}
+
+.banner-image{
+  text-align: center;
+  align-items: center;
+  margin-left: 253px;
+}

@@ -1,0 +1,11 @@
+.apply-button{
+  border-radius: 50%;
+  border: 5px solid black;
+  margin-bottom: 16px;
+}
+
+.apply-button:hover{
+  transition: 1s;
+  background-color: lightblue;
+
+}
